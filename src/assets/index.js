@@ -1,4 +1,4 @@
-import bgHome from './bg-svg.svg'
+// import bgHome from './bg-svg.svg'
 import bgCounter from './counter.png'
 import pic1 from './about1.svg'
 import pic2 from './about2.svg'
@@ -19,7 +19,7 @@ import backgroundImage2 from '../assets/bg3.svg';
 import qrFblive from '../assets/qrfb.svg';
 
 export{
-    bgHome,
+    // bgHome,
     bg2,
     bgCounter,
     pic1,
